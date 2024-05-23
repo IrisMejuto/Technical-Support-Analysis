@@ -1,5 +1,10 @@
 # Technical-Support-Analysis
 This Power BI project, developed for the DataDNA ZoomCharts Challenge, provides an in-depth analysis of technical support performance, focusing on ticket trends, SLA adherence, and customer satisfaction. #PowerBI 
+
+<div align="center">
+<img src="https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG" alt="Logo" width="800" height="500">
+</div>
+
 ##📊 Dashboard
 You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdmZjE0ODQtZWI2YS00YzNlLWIxOGQtZWNiMTY5YzdlNWRmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
@@ -16,7 +21,7 @@ The dataset is made up of 1 file, you can download:
 ## 🖇️ Model:
 The data modeling stage involved creating a relational data model that reflects the relationships between Agents, Locations, Product Groups, Topics, and Tickets.
 
-[Image](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Images/Modelo.png)
+![image](![image](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Images/Modelo.png)
 
 ## ❓ Key questions the project answers:
 * ✅ 1. What are the peak ticket creation times?
