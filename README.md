@@ -1,7 +1,7 @@
 # Technical-Support-Analysis
 This Power BI project, developed for the DataDNA ZoomCharts Challenge, provides an in-depth analysis of technical support performance, focusing on ticket trends, SLA adherence, and customer satisfaction. #PowerBI 
 ##📊 Dashboard
-You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard]()
+You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdmZjE0ODQtZWI2YS00YzNlLWIxOGQtZWNiMTY5YzdlNWRmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## 🪟 Overview:
 In this project, conducted with Power BI for the DataDNA ZoomCharts Mini Challenge, I focus on analyzing technical support data. The report includes detailed visualizations that provide insights into ticket volumes, response and resolution times, and customer satisfaction across various dimensions.
