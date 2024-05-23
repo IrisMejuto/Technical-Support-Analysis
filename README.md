@@ -2,7 +2,7 @@
 This Power BI project, developed for the DataDNA ZoomCharts Challenge, provides an in-depth analysis of technical support performance, focusing on ticket trends, SLA adherence, and customer satisfaction. #PowerBI 
 
 <div align="center">
-<img src="https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/Images/Slide4.JPG" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Images/4%20Tech%20Support%20Cover.jpg" alt="Logo" width="800" height="500">
 </div>
 
 ##📊 Dashboard
