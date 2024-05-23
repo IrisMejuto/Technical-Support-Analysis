@@ -16,7 +16,7 @@ The dataset is made up of 1 file, you can download:
 ## 🖇️ Model:
 The data modeling stage involved creating a relational data model that reflects the relationships between Agents, Locations, Product Groups, Topics, and Tickets.
 
-[Image]()
+[Image](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Images/Modelo.png)
 
 ## ❓ Key questions the project answers:
 * ✅ 1. What are the peak ticket creation times?
