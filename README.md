@@ -11,7 +11,7 @@ Utilizing Power BI's robust capabilities and ZoomCharts' interactive visuals, I 
 ## 🗃️ Dataset:
 The dataset is made up of 1 file, you can download:
 
-[Files](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Database/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Technical%20Support%20Dataset%20-%20May%202024.xlsx)
+[Files](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/Dataset/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Technical%20Support%20Dataset%20-%20May%202024.xlsx)
 
 ## 🖇️ Model:
 The data modeling stage involved creating a relational data model that reflects the relationships between Agents, Locations, Product Groups, Topics, and Tickets.
