@@ -6,7 +6,7 @@ This Power BI project, the [winner of the Challenge](https://github.com/IrisMeju
 </div>
 
 ## 📊 Dashboard
-You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdmZjE0ODQtZWI2YS00YzNlLWIxOGQtZWNiMTY5YzdlNWRmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/e2dca1538d354c9462084d778fba3148?challenge=onyx-data-may-2024)
 
 ## 🪟 Overview
 In this project, conducted with Power BI for the DataDNA ZoomCharts Mini Challenge, I focus on analyzing technical support data. The report includes detailed visualizations that provide insights into ticket volumes, response and resolution times, and customer satisfaction across various dimensions.
